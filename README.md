@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Humza
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning TypeScript with React.
-- 💞️ I’m looking to collaborate on open source porject in React Native or React.
+- 👀 I’m Studying M.Sc. Artificial Intelligence
+- 🌱 I’m currently focusing on Generative AI, Conversational AI and Data Science.
+- 💞️ I’m looking to collaborate on open-source projects in Artificial Intelligence.
 
 <!---
 humzajamil/humzajamil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
